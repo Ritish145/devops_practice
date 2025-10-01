@@ -10,8 +10,11 @@ I am following a structured roadmap (Linux → Git → AWS → Docker → CI/CD 
 - Prints today’s date and the current directory.  
 - Covers: basic bash scripting, file execution with `chmod +x`.  
 
-**Day 2:** (coming soon)  
-- Focus: Users & Permissions.  
+**Day 2:** [day2.sh](week1/day2/day2.sh)  
+- Shows user info with `whoami`, `id`, and `groups`  
+- Demonstrates file permissions (`ls -l`)  
+- Changes permissions with `chmod` (644 and +x examples)  
+- Includes placeholder for adding a demo user (commented out for safety)   
 
 **Day 3:** (coming soon)  
 - Focus: Processes & Monitoring.  
